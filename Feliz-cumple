@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡Feliz Cumpleaños, Hermano!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffcccb;
+            padding: 20px;
+        }
+        h1 {
+            color: #d32f2f;
+            font-size: 36px;
+        }
+        .message {
+            font-size: 20px;
+            color: #333;
+            background: #fff;
+            padding: 15px;
+            border-radius: 10px;
+            display: inline-block;
+            margin: 20px auto;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }
+        .gallery img {
+            width: 80%;
+            max-width: 600px;
+            margin: 10px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }
+        .balloons {
+            font-size: 50px;
+            margin: 20px 0;
+        }
+        .link-container {
+            margin-top: 20px;
+        }
+        .link-container a {
+            font-size: 18px;
+            color: #0066cc;
+            text-decoration: none;
+            display: block;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🎉 ¡Feliz Cumpleaños, hermano! 🎉</h1>
+    
+    <p class="message">
+        ¡Hoy es un día especial porque celebramos tus 29 años de pura grandeza! 🎂🥳  
+        Han sido casi tres décadas de aventuras, risas, travesuras y momentos inolvidables.  
+        ¡Espero que este año esté lleno de éxitos, felicidad y muchas más razones para sonreír!  
+        Recuerda que los años solo suman experiencia y que estás en la mejor etapa de la vida.  
+        Así que, ¡disfruta al máximo, come mucho pastel y sigue brillando como siempre!  
+        🍰🎈🎁 ¡Felicidades, crack! 🚀
+    </p>
+
+    <div class="balloons">🎈🎈🎈</div>
+
+    <div class="gallery">
+        <img src="https://drive.google.com/uc?export=view&id=19PYH0P817SLqClXPkT86vwjOVz9RwW5F" alt="Recuerdo 1">
+        <img src="https://drive.google.com/uc?export=view&id=19QVvVbLNbHeSQLiw1XWpnnJ2PFVxkpj2" alt="Recuerdo 2">
+        <img src="https://drive.google.com/uc?export=view&id=19RJ792bbHfBNmwKMDVW1WESt9dqgBaXt" alt="Recuerdo 3">
+    </div>
+
+    <div class="link-container">
+        <p>🔗 Puedes descargar más recuerdos aquí:</p>
+        <a href="https://files.fm/u/y2w7r7e2x5" target="_blank">📁 Descargar archivo</a>
+    </div>
+
+</body>
+</html>
